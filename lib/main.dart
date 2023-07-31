@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         ViewPostScreen.id: (context) => ViewPostScreen(
               post: posts[0],
             ),
-        // FullStoryScreen.id:(context)=>FullStoryScreen(storyImage: ),
+       
       },
     );
   }
