@@ -6,3 +6,9 @@ Instagram_Clone
 
 ### Sign-Up Page
 ![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/903cde3cd56786b551a80c142144b643fb5678e5/Screenshots/Instagram_signup_page.png)
+
+### Instagram feed page
+HomePage
+![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_1.png)
+![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_2.png)
+![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_3.png)
