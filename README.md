@@ -12,3 +12,6 @@ HomePage
 ![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_1.png)
 ![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_2.png)
 ![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/ab99d21dd82527a5d3417148f497b6250db914cd/Screenshots/Instagram_feed_page_3.png)
+
+![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/c3745351e4f946b3f526cdf14178196270927947/Screenshots/Instagram_story_1.png)
+![alt text](https://github.com/Aayush-Basnet/flutter_Instagram_Clone/blob/c3745351e4f946b3f526cdf14178196270927947/Screenshots/Instagram_story_2.png)
